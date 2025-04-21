@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [NCS_Wireless_Bed_Unit.PrjPcb]
+   Generated File[NCS_Wireless_Bed_Unit_Copper_Signal_Top.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Copper_Signal_Bot.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Pads_Bot.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Pads_Top.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Soldermask_Bot.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Legend_Top.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Paste_Top.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Soldermask_Top.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Mechanical_13.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Mechanical_1.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Mechanical_15.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Profile.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_PTH_Drill.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Drawing_1.gbr]
+   Generated File[NCS_Wireless_Bed_Unit_Drillmap_1.gbr]
+   Generated File[NCS_Wireless_Bed_Unit.RUL]
+   Generated File[NCS_Wireless_Bed_Unit.EXTREP]
+   Generated File[NCS_Wireless_Bed_Unit.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 10:38:52 PM On 4/21/2025

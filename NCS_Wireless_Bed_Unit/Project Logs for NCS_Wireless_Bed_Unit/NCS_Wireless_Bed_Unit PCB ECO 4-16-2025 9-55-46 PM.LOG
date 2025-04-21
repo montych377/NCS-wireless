@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=GND Pin=DIP1-1
+Removed Pin From Net: NetName=GND Pin=DIP1-2
+Removed Pin From Net: NetName=GND Pin=DIP1-3
+Removed Pin From Net: NetName=GND Pin=DIP1-4
+Removed Pin From Net: NetName=GND Pin=DIP1-5
+Removed Pin From Net: NetName=GND Pin=DIP1-6
+Removed Pin From Net: NetName=GND Pin=DIP1-7
+Removed Pin From Net: NetName=GND Pin=DIP1-8
+Removed Pin From Net: NetName=GND Pin=DIP1-9
+Removed Pin From Net: NetName=GND Pin=DIP1-10
+Removed Pin From Net: NetName=GND Pin=DIP1-11
+Removed Pin From Net: NetName=GND Pin=DIP1-12
+Removed Pin From Net: NetName=NetDIP1_12 Pin=DIP1-13
+Removed Pin From Net: NetName=NetDIP1_11 Pin=DIP1-14
+Removed Pin From Net: NetName=NetDIP1_10 Pin=DIP1-15
+Removed Pin From Net: NetName=NetDIP1_9 Pin=DIP1-16
+Removed Pin From Net: NetName=NetDIP1_8 Pin=DIP1-17
+Removed Pin From Net: NetName=NetDIP1_7 Pin=DIP1-18
+Removed Pin From Net: NetName=NetDIP1_6 Pin=DIP1-19
+Removed Pin From Net: NetName=NetDIP1_5 Pin=DIP1-20
+Removed Pin From Net: NetName=NetDIP1_4 Pin=DIP1-21
+Removed Pin From Net: NetName=NetDIP1_3 Pin=DIP1-22
+Removed Pin From Net: NetName=NetDIP1_2 Pin=DIP1-23
+Removed Pin From Net: NetName=NetDIP1_1 Pin=DIP1-24
+Change Component Footprint: Designator=J3 Old Footprint=1x5 Connector New Footprint=1x5 Female Header
+Change Component Comment : Designator=J3 Old Comment=1x5 Connector New Comment=1x5 Female Header
+Change component parameters: Designator = "J3" ("j3"); Footprint = "1x5 Connector"; UniqueID = "\BYSXXOWA" ("\BYSXXOWA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SIL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/11749/0900766b80da602d-11749062.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/11749/0900766b80da602d-11749062.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/6833/m20-999-6833320.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/6833/m20-999-6833320.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/8046/315376-8046940.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/8046/315376-8046940.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Mating"; Value = "TIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass,Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Pull"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "10GR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-9990546"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mated Stacking Heights"; Value = "16.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.2, 10=0.163, 100=0.1329, 500=0.11516, 1000=0.10828, 5000=0.09388, 10000=0.08828 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "M20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "16218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "952-2268-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "750V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDIP1_1 Pin=DIP1-1
+Added Pin To Net: NetName=NetDIP1_2 Pin=DIP1-2
+Added Pin To Net: NetName=NetDIP1_3 Pin=DIP1-3
+Added Pin To Net: NetName=NetDIP1_4 Pin=DIP1-4
+Added Pin To Net: NetName=NetDIP1_5 Pin=DIP1-5
+Added Pin To Net: NetName=NetDIP1_6 Pin=DIP1-6
+Added Pin To Net: NetName=NetDIP1_7 Pin=DIP1-7
+Added Pin To Net: NetName=NetDIP1_8 Pin=DIP1-8
+Added Pin To Net: NetName=NetDIP1_9 Pin=DIP1-9
+Added Pin To Net: NetName=NetDIP1_10 Pin=DIP1-10
+Added Pin To Net: NetName=NetDIP1_11 Pin=DIP1-11
+Added Pin To Net: NetName=NetDIP1_12 Pin=DIP1-12
+Added Pin To Net: NetName=GND Pin=DIP1-13
+Added Pin To Net: NetName=GND Pin=DIP1-14
+Added Pin To Net: NetName=GND Pin=DIP1-15
+Added Pin To Net: NetName=GND Pin=DIP1-16
+Added Pin To Net: NetName=GND Pin=DIP1-17
+Added Pin To Net: NetName=GND Pin=DIP1-18
+Added Pin To Net: NetName=GND Pin=DIP1-19
+Added Pin To Net: NetName=GND Pin=DIP1-20
+Added Pin To Net: NetName=GND Pin=DIP1-21
+Added Pin To Net: NetName=GND Pin=DIP1-22
+Added Pin To Net: NetName=GND Pin=DIP1-23
+Added Pin To Net: NetName=GND Pin=DIP1-24
+Added Room: Name=NCS_Wireless_Bed_Unit_DIP_Conn_Prog_conn
+Added Room: Name=NCS_Wireless_Bed_Unit_mcu
+Added Room: Name=NCS_Wireless_Bed_Unit_Power_Supply
