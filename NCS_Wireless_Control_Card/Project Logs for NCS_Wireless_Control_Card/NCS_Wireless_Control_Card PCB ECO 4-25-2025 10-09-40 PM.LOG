@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=BGND Pin=DIP1-13
+Removed Pin From Net: NetName=BGND Pin=DIP1-14
+Removed Pin From Net: NetName=BGND Pin=DIP1-15
+Removed Pin From Net: NetName=BGND Pin=DIP1-16
+Removed Pin From Net: NetName=BGND Pin=DIP1-17
+Removed Pin From Net: NetName=BGND Pin=DIP1-18
+Removed Pin From Net: NetName=BGND Pin=DIP1-19
+Removed Pin From Net: NetName=BGND Pin=DIP1-20
+Removed Pin From Net: NetName=BGND Pin=DIP1-21
+Removed Pin From Net: NetName=BGND Pin=DIP1-22
+Removed Pin From Net: NetName=BGND Pin=DIP1-23
+Removed Pin From Net: NetName=BGND Pin=DIP1-24
+Added Pin To Net: NetName=BGND Pin=DIP1-1
+Added Pin To Net: NetName=BGND Pin=DIP1-2
+Added Pin To Net: NetName=BGND Pin=DIP1-3
+Added Pin To Net: NetName=BGND Pin=DIP1-4
+Added Pin To Net: NetName=BGND Pin=DIP1-5
+Added Pin To Net: NetName=BGND Pin=DIP1-6
+Added Pin To Net: NetName=BGND Pin=DIP1-7
+Added Pin To Net: NetName=BGND Pin=DIP1-8
+Added Pin To Net: NetName=BGND Pin=DIP1-9
+Added Pin To Net: NetName=BGND Pin=DIP1-10
+Added Pin To Net: NetName=BGND Pin=DIP1-11
+Added Pin To Net: NetName=BGND Pin=DIP1-12
+Added Pin To Net: NetName=NetDIP1_13 Pin=DIP1-13
+Added Pin To Net: NetName=NetDIP1_13 Pin=R17-1
+Added Pin To Net: NetName=NetDIP1_13 Pin=U1-4
+Added Net: Name=NetDIP1_13
+Added Pin To Net: NetName=NetDIP1_14 Pin=DIP1-14
+Added Pin To Net: NetName=NetDIP1_14 Pin=R16-1
+Added Pin To Net: NetName=NetDIP1_14 Pin=U1-1
+Added Net: Name=NetDIP1_14
+Added Pin To Net: NetName=NetDIP1_15 Pin=DIP1-15
+Added Pin To Net: NetName=NetDIP1_15 Pin=R15-1
+Added Pin To Net: NetName=NetDIP1_15 Pin=U1-48
+Added Net: Name=NetDIP1_15
+Added Pin To Net: NetName=NetDIP1_16 Pin=DIP1-16
+Added Pin To Net: NetName=NetDIP1_16 Pin=R14-1
+Added Pin To Net: NetName=NetDIP1_16 Pin=U1-47
+Added Net: Name=NetDIP1_16
+Added Pin To Net: NetName=NetDIP1_17 Pin=DIP1-17
+Added Pin To Net: NetName=NetDIP1_17 Pin=R13-1
+Added Pin To Net: NetName=NetDIP1_17 Pin=U1-46
+Added Net: Name=NetDIP1_17
+Added Pin To Net: NetName=NetDIP1_18 Pin=DIP1-18
+Added Pin To Net: NetName=NetDIP1_18 Pin=R12-1
+Added Pin To Net: NetName=NetDIP1_18 Pin=U1-45
+Added Net: Name=NetDIP1_18
+Added Pin To Net: NetName=NetDIP1_19 Pin=DIP1-19
+Added Pin To Net: NetName=NetDIP1_19 Pin=R11-1
+Added Pin To Net: NetName=NetDIP1_19 Pin=U1-44
+Added Net: Name=NetDIP1_19
+Added Pin To Net: NetName=NetDIP1_20 Pin=DIP1-20
+Added Pin To Net: NetName=NetDIP1_20 Pin=R10-1
+Added Pin To Net: NetName=NetDIP1_20 Pin=U1-43
+Added Net: Name=NetDIP1_20
+Added Pin To Net: NetName=NetDIP1_21 Pin=DIP1-21
+Added Pin To Net: NetName=NetDIP1_21 Pin=R9-1
+Added Pin To Net: NetName=NetDIP1_21 Pin=U1-42
+Added Net: Name=NetDIP1_21
+Added Pin To Net: NetName=NetDIP1_22 Pin=DIP1-22
+Added Pin To Net: NetName=NetDIP1_22 Pin=R8-1
+Added Pin To Net: NetName=NetDIP1_22 Pin=U1-41
+Added Net: Name=NetDIP1_22
+Added Pin To Net: NetName=NetDIP1_23 Pin=DIP1-23
+Added Pin To Net: NetName=NetDIP1_23 Pin=R7-1
+Added Pin To Net: NetName=NetDIP1_23 Pin=U1-40
+Added Net: Name=NetDIP1_23
+Added Pin To Net: NetName=NetDIP1_24 Pin=DIP1-24
+Added Pin To Net: NetName=NetDIP1_24 Pin=R6-1
+Added Pin To Net: NetName=NetDIP1_24 Pin=U1-39
+Added Net: Name=NetDIP1_24
+Added Room: Name=NCS_Wireless_Control_Card_Display_Connector
+Added Room: Name=NCS_Wireless_Control_Card_hc12_display_conn
+Added Room: Name=NCS_Wireless_Control_Card_MCU
+Added Room: Name=NCS_Wireless_Control_Card_Power_dis_conn
